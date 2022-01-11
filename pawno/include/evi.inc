@@ -26,9 +26,10 @@
 *******************************************************************************/
 
 #if defined _evi_included
-  #endinput
+	#endinput
 #endif
 #define _evi_included
+#pragma library evi
 
 #include <a_samp>
 
